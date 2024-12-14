@@ -12,7 +12,7 @@ function Footer() {
           <img src="/twitter.png" alt="Twitter" />
         </a>
         <a href="#" aria-label="LinkedIn">
-          <img src="/Ln.png" alt="Ln" />
+          <img src="/Ln.png" alt="LinkedIn" />
         </a>
       </div>
       <p>Copyright &copy; 2024. All rights reserved.</p>
